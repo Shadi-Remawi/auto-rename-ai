@@ -17,7 +17,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 The package can be installed via pip after local build or publishing:
 
 ```bash
-pip install .
+pip install auto-rename-ai
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
